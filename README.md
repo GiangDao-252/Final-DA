@@ -33,14 +33,18 @@ The analysis provides strategic insights for developers and stakeholders to opti
 
 ## ⚙️ Installation
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/GiangDao-252/Final-DA.git](https://github.com/GiangDao-252/Final-DA.git)
-   cd Final-DA
+```bash
+git clone [https://github.com/GiangDao-252/Final-DA.git](https://github.com/GiangDao-252/Final-DA.git)
+cd Final-DA
    
 2. Install dependencies:
-  ```bash
-    pip install -r requirements.txt
+
+```bash
+pip install -r requirements.txt
+```
 
 3. Launch the notebook:
-  ```bash
-  jupyter notebook DA_GooglePlayStore_Clustering_NEU.ipynb
+
+```bash
+jupyter notebook DA_GooglePlayStore_Clustering_NEU.ipynb
+```
