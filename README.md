@@ -36,7 +36,7 @@ The analysis provides strategic insights for developers and stakeholders to opti
 ```bash
 git clone [https://github.com/GiangDao-252/Final-DA.git](https://github.com/GiangDao-252/Final-DA.git)
 cd Final-DA
-   
+```   
 2. Install dependencies:
 
 ```bash
