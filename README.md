@@ -46,5 +46,5 @@ pip install -r requirements.txt
 3. Launch the notebook:
 
 ```bash
-jupyter notebook DA_GooglePlayStore_Clustering_NEU.ipynb
+jupyter notebook DA_GooglePlayStore_Clustering_NEU-4.ipynb
 ```
