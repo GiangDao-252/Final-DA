@@ -37,7 +37,7 @@ The analysis provides strategic insights for developers and stakeholders to opti
    git clone [https://github.com/GiangDao-252/Final-DA.git](https://github.com/GiangDao-252/Final-DA.git)
 2. Install dependencies:
   ```bash
-    pip install -r requirements.txt
+    pip install -r requirements.txt```
 3. Launch the notebook:
   ```bash
   jupyter notebook DA_GooglePlayStore_Clustering_NEU.ipynb
