@@ -12,7 +12,7 @@ The analysis provides strategic insights for developers and stakeholders to opti
 * **Đào Hương Giang** (Project Lead)
 
 ## Repository Structure
-* `DA_GooglePlayStore_Clustering_NEU.ipynb`: Main Jupyter Notebook containing data cleaning, EDA, and clustering models.
+* `DA_GooglePlayStore_Clustering_NEU-5.ipynb`: Main Jupyter Notebook containing data cleaning, EDA, and clustering models.
 * `googleplaystore.csv`: Primary dataset containing app details (Rating, Installs, Price, etc.).
 * `googleplaystore_user_reviews.csv`: Supplemental dataset for sentiment analysis.
 * `requirements.txt`: List of required Python libraries.
@@ -46,5 +46,5 @@ pip install -r requirements.txt
 3. Launch the notebook:
 
 ```bash
-jupyter notebook DA_GooglePlayStore_Clustering_NEU-4.ipynb
+jupyter notebook DA_GooglePlayStore_Clustering_NEU-5.ipynb
 ```
