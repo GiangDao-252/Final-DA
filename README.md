@@ -16,8 +16,7 @@ The analysis provides strategic insights for developers and stakeholders to opti
 * `googleplaystore.csv`: Primary dataset containing app details (Rating, Installs, Price, etc.).
 * `googleplaystore_user_reviews.csv`: Supplemental dataset for sentiment analysis.
 * `requirements.txt`: List of required Python libraries.
-* `figures/`: Visualizations exported for the final report.
-
+  
 ## Tech Stack
 * **Language:** Python 3.x
 * **Core Libraries:** * Data Manipulation: `Pandas`, `NumPy`
